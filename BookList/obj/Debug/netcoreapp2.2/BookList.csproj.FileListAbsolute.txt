@@ -29,3 +29,4 @@ C:\Users\lcooper2\source\repos\BookList\BookList\obj\Debug\netcoreapp2.2\BookLis
 C:\Users\lcooper2\source\repos\BookList\BookList\obj\Debug\netcoreapp2.2\BookList.pdb
 C:\Users\lcooper2\source\repos\BookList\BookList\obj\Debug\netcoreapp2.2\BookList.csproj.CopyComplete
 C:\Users\lcooper2\source\repos\BookList\BookList\obj\Debug\netcoreapp2.2\Razor\Pages\ListOfBooks\Index.g.cshtml.cs
+C:\Users\lcooper2\source\repos\BookList\BookList\obj\Debug\netcoreapp2.2\Razor\Pages\ListOfBooks\Create.g.cshtml.cs

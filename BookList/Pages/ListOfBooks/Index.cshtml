@@ -1,8 +1,15 @@
-﻿@page
+﻿@page // all razor pages must start with this
 @model BookList.Pages.ListOfBooks.IndexModel
 @{
     ViewData["Title"] = "Index";
 }
 
-<h1>Hello BookList!</h1>
-
+<br />
+<div class="container row">
+    <div class="col-6">
+        <h2 class="text-info">Book List</h2>
+    </div>
+    <div class="col-6">
+        <a asp-page="Create" class="btn btn-primary">Create New Book</a>
+    </div>
+</div>
